@@ -25,4 +25,19 @@ test.py – Basic test logic
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/johankurt7/Football_odds_analysis.git
+2. Install dependencies
+3. Add your API key in a `.env` file:
+4. Run the application:
+
+
+## What I Learned
+- Structuring Python projects
+- Handling external APIs and JSON data
+- Implementing probability models for real-world data
+- Writing readable and maintainable code
+
+## Future Improvements
+- Store data in SQL
+- Add logging and error handling
+- Add data visualization
